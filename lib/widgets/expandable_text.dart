@@ -1,6 +1,5 @@
+part of "../eui.dart";
 
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
 
 extension _TextMeasurer on RichText {
   List<TextBox> measure(BuildContext context, Constraints constraints) {
