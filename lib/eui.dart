@@ -11,3 +11,4 @@ part './animation/falling_text.dart';
 part './animation/spread_widget.dart';
 part './animation/flashing_text.dart';
 part './widgets/round_button.dart';
+part './widgets/expandable_text.dart';
